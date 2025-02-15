@@ -9,7 +9,7 @@ the model was made by me in blockbench and the template itself was made with pep
 
 the .bbmodel file is the blockbench file, feel free to use it so see how the model is constructed but please to not repost without my permission
 
-the .pdf file is where the template itself is at
+the.rar file with the .pdf file is where the template itself is at
 
 good luck and happy crafting! 
 
